@@ -4,7 +4,6 @@
 - popup.html          // HTML structure of the extension popup
 - popup.js            // Logic for popup functionality and communication
 - content.js          // Script for interacting with the embedded Google Form
-- styles.css (if needed) // Optional styling file
 
 == Overview == <br>
 The Google Form Filler Chrome Extension streamlines filling out embedded Google Forms by:
